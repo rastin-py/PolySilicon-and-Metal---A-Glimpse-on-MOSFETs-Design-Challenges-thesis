@@ -1,2 +1,2 @@
 # PolySilicon-and-Metal---A-Glimpse-on-MOSFETs-Design-Challenges-thesis
-This research report delves into the reasons of changes in MOSFET's gate electrode material, and explores some of the other challenges related to the scaling of  MOSFETs.
+A research exploring the reasons of changes in MOSFET's gate electrode material as the final project for Research Methods course at the University of Guilan, Department of Computer Engineering, presented in Winter 2024 by Prof. Asadollah Shahbahrami.
